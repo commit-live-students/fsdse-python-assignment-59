@@ -7,3 +7,6 @@ def solution(num1, num2, end_num):
 
 #solution(2, 3, 13)
 #Input [6,12]
+
+#solution(2, 4, 13)
+#Input [4,8,12]
