@@ -20,3 +20,4 @@ _Example:_
     
 _Challenge:_
 Write the function without using for-loop.
+Hacktoberfest-accepted
